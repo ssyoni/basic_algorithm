@@ -1,3 +1,5 @@
+package greedy;
+
 import java.util.Scanner;
 
 public class 일이_될_때까지 {

@@ -1,3 +1,5 @@
+package implementation;
+
 import java.util.Scanner;
 
 public class 왕실의_나이트 {

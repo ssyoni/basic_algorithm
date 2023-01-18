@@ -1,5 +1,6 @@
+package greedy
+
 import java.util.*
-import java.util.Collections.max
 import kotlin.time.ExperimentalTime
 import kotlin.time.measureTimedValue
 

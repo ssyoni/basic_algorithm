@@ -1,3 +1,5 @@
+package greedy;
+
 import java.util.Scanner;
 
 public class 숫자_카드_게임 {
